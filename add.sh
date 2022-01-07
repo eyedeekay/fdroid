@@ -1,5 +1,9 @@
 #! /usr/bin/env sh
-git add $1
-echo "git commit -am \"add $1\""
-git commit -am "add $1"
-git push --all
+if echo $1 | grep '.git/'; then
+	echo "ignore git file"
+else
+	git add $1
+	echo "git commit -am \"add $1\""
+	git commit -am "add $1"
+	git push --all
+fi
