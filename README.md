@@ -1,6 +1,6 @@
 ::: {#topbar}
 [![I2P
-Logo](/i2plogo.png "The Invisible Internet Project (I2P)")](https://geti2p.net){#logo}
+Logo](i2plogo.png "The Invisible Internet Project (I2P)")](https://geti2p.net){#logo}
 
 ::: {.title}
 I2P Official App Repository
@@ -24,7 +24,7 @@ Direct HTTPS
 
 [https://f-droid.i2p.io/repo\
 ![f-droid.i2p.io](/f-droid.i2p.io-QR.png){width="245"
-height="245"}](https://f-droid.i2p.io/repo?fingerprint=68E76561AAF3F53DD53BA7C03D795213D0CA1772C3FAC0159B50A5AA85C45DC6)
+height="245"}](https://f-droid.i2p.io/repo?fingerprint=22658CC69F48D63F63C3D64E2041C81714E2749F3F6E5445C825297A00DDC5B6)
 
 Signing Key Fingerprint
 -----------------------
@@ -33,7 +33,7 @@ Signing Key Fingerprint
 If you would like to manually verify the fingerprint (SHA-256) of the
 repository signing key, here it is:
 
-    68 E7 65 61 AA F3 F5 3D D5 3B A7 C0 3D 79 52 13 D0 CA 17 72 C3 FA C0 15 9B 50 A5 AA 85 C4 5D C6
+    22 65 8C C6 9F 48 D6 3F 63 C3 D6 4E 20 41 C8 17 14 E2 74 9F 3F 6E 54 45 C8 25 29 7A 00 DD C5 B6
 :::
 
 Questions or Problems?
