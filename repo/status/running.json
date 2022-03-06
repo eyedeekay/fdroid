@@ -3,7 +3,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "656b54b1995dd1d8a55be6864460ddc2e6056d9b",
+    "commitId": "3fb50f94145b6812ac92cac9443d08e81cd88fb3",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -15,10 +15,19 @@
     ],
     "untrackedFiles": [
       "config.yml",
-      "find.sh",
+      "fdroid.tar.gz",
+      "repo/I2P-1.7.0.apk",
+      "repo/I2P-1.7.1.apk",
+      "repo/icons-120/net.i2p.android.4745266.png",
+      "repo/icons-160/net.i2p.android.4745266.png",
+      "repo/icons-240/net.i2p.android.4745266.png",
+      "repo/icons-320/net.i2p.android.4745266.png",
+      "repo/icons-480/net.i2p.android.4745266.png",
+      "repo/icons-640/net.i2p.android.4745266.png",
+      "repo/icons/net.i2p.android.4745266.png",
       "tmp/apkcache.json"
     ]
   },
-  "startTimestamp": 1641550882000,
+  "startTimestamp": 1646568797000,
   "subcommand": "update"
 }
