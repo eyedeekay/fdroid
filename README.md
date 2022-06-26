@@ -11,7 +11,7 @@
 </section>
 <p>This is our <a href="https://f-droid.org">F-Droid</a> app repository for the official, trusted builds of our apps. This repo can be accessed via an HTTPS connection:</p>
 <h2 id="direct-https">Direct HTTPS</h2>
-<a href="https://f-droid.i2p.io/repo?fingerprint=22658CC69F48D63F63C3D64E2041C81714E2749F3F6E5445C825297A00DDC5B6">https://f-droid.i2p.io/repo<br />
+<a href="https://eyedeekay.github.io/fdroid/repo?fingerprint=22658CC69F48D63F63C3D64E2041C81714E2749F3F6E5445C825297A00DDC5B6">https://f-droid.i2p.io/repo<br />
 <img src="/f-droid.i2p.io-QR.png" width="245" height="245" alt="f-droid.i2p.io" /></a>
 <h2 id="signing-key-fingerprint">Signing Key Fingerprint</h2>
 <div class="textwidget">
