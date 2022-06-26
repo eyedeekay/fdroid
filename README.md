@@ -40,9 +40,9 @@ Questions or Problems?
 ----------------------
 
 ::: {.textwidget}
-If you have any questions or problems please email us at:
+If you have any questions or problems please reach out on gitlab:
 
-<android-support@privacysolutions.no>
+<https://i2pgit.org/i2p-hackers/i2p.android.base>
 :::
 :::
 
