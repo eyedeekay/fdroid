@@ -1,55 +1,7 @@
 {
-  "METADATA_VERSION": 20000,
+  "METADATA_VERSION": 20001,
   "allow_disabled_algorithms": false,
   "Bote-0.6.1.apk": {
-    "hash": "a7d950f8e78a2d163d4b2722b9fcbf8685049afb88ce6b747f486f48526c4e6b",
-    "hashType": "sha256",
-    "uses-permission": [
-      [
-        "android.permission.INTERNET",
-        null
-      ],
-      [
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        null
-      ],
-      [
-        "android.permission.VIBRATE",
-        null
-      ],
-      [
-        "android.permission.NFC",
-        null
-      ],
-      [
-        "android.permission.ACCESS_NETWORK_STATE",
-        null
-      ],
-      [
-        "android.permission.READ_EXTERNAL_STORAGE",
-        null
-      ]
-    ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher.png"
-    },
-    "icons": {
-      "320": "i2p.bote.android.15.png",
-      "240": "i2p.bote.android.15.png",
-      "160": "i2p.bote.android.15.png",
-      "0": "i2p.bote.android.15.png"
-    },
-    "antiFeatures": [],
-    "packageName": "i2p.bote.android",
-    "versionCode": 15,
-    "name": "Bote",
-    "versionName": "0.6.1",
-    "minSdkVersion": 14,
     "targetSdkVersion": 26,
     "nativecode": [
       "armeabi",
@@ -58,16 +10,26 @@
       "x86",
       "x86_64/darwin"
     ],
-    "sig": "64593192f850670c39ba600c24d065ae",
+    "added": 1653721789.114568,
+    "versionCode": 15,
     "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 7604345,
-    "apkName": "Bote-0.6.1.apk",
-    "icon": "i2p.bote.android.15.png",
-    "added": 1622621461.331632
-  },
-  "Bote-0.6.2.apk": {
-    "hash": "cd503a18f47bfaa525cd8abb82e9709091383c83964625b8c43f773a081ef440",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.6.1",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    "packageName": "i2p.bote.android",
+    "icon": "i2p.bote.android.15.png",
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "Bote",
+    "hash": "a7d950f8e78a2d163d4b2722b9fcbf8685049afb88ce6b747f486f48526c4e6b",
+    "apkName": "Bote-0.6.1.apk",
+    "size": 7604345,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -94,26 +56,16 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher.png"
-    },
-    "icons": {
-      "320": "i2p.bote.android.17.png",
-      "240": "i2p.bote.android.17.png",
-      "160": "i2p.bote.android.17.png",
-      "0": "i2p.bote.android.17.png"
-    },
     "antiFeatures": [],
-    "packageName": "i2p.bote.android",
-    "versionCode": 17,
-    "name": "Bote",
-    "versionName": "0.6.2",
-    "minSdkVersion": 14,
+    "features": [],
+    "icons": {
+      "0": "i2p.bote.android.15.png",
+      "240": "i2p.bote.android.15.png",
+      "160": "i2p.bote.android.15.png",
+      "320": "i2p.bote.android.15.png"
+    }
+  },
+  "Bote-0.6.2.apk": {
     "targetSdkVersion": 26,
     "nativecode": [
       "arm64-v8a",
@@ -123,16 +75,26 @@
       "x86",
       "x86_64/darwin"
     ],
-    "sig": "64593192f850670c39ba600c24d065ae",
+    "added": 1653721790.853895,
+    "versionCode": 17,
     "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 7740094,
-    "apkName": "Bote-0.6.2.apk",
-    "icon": "i2p.bote.android.17.png",
-    "added": 1622621462.183083
-  },
-  "Bote-0.6.apk": {
-    "hash": "a1b9b17c66442b8d77823b9ad7b3ad3ebfbc8d8f7dd8a9b54b5a75f8d9fe78a5",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.6.2",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    "packageName": "i2p.bote.android",
+    "icon": "i2p.bote.android.17.png",
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "Bote",
+    "hash": "cd503a18f47bfaa525cd8abb82e9709091383c83964625b8c43f773a081ef440",
+    "apkName": "Bote-0.6.2.apk",
+    "size": 7740094,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -151,30 +113,24 @@
         null
       ],
       [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
         "android.permission.READ_EXTERNAL_STORAGE",
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher.png"
-    },
-    "icons": {
-      "320": "i2p.bote.android.13.png",
-      "240": "i2p.bote.android.13.png",
-      "160": "i2p.bote.android.13.png",
-      "0": "i2p.bote.android.13.png"
-    },
     "antiFeatures": [],
-    "packageName": "i2p.bote.android",
-    "versionCode": 13,
-    "name": "Bote",
-    "versionName": "0.6",
-    "minSdkVersion": 10,
+    "features": [],
+    "icons": {
+      "0": "i2p.bote.android.17.png",
+      "240": "i2p.bote.android.17.png",
+      "160": "i2p.bote.android.17.png",
+      "320": "i2p.bote.android.17.png"
+    }
+  },
+  "Bote-0.6.apk": {
     "targetSdkVersion": 22,
     "nativecode": [
       "armeabi",
@@ -182,66 +138,58 @@
       "mips",
       "x86"
     ],
-    "sig": "64593192f850670c39ba600c24d065ae",
+    "added": 1653721791.922162,
+    "versionCode": 13,
     "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 6460517,
-    "apkName": "Bote-0.6.apk",
-    "icon": "i2p.bote.android.13.png",
-    "added": 1622621462.723018
-  },
-  "I2P-0.9.43.apk": {
-    "hash": "93e39b46001da498c9dad1ee94e5cb6301942a5dd2fe6b8405c7ccbed936d2bf",
     "hashType": "sha256",
+    "minSdkVersion": 10,
+    "versionName": "0.6",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    "packageName": "i2p.bote.android",
+    "icon": "i2p.bote.android.13.png",
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "Bote",
+    "hash": "a1b9b17c66442b8d77823b9ad7b3ad3ebfbc8d8f7dd8a9b54b5a75f8d9fe78a5",
+    "apkName": "Bote-0.6.apk",
+    "size": 6460517,
     "uses-permission": [
       [
         "android.permission.INTERNET",
         null
       ],
       [
-        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
         null
       ],
       [
-        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE",
         null
       ],
       [
-        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.NFC",
         null
       ],
       [
-        "android.permission.ACCESS_WIFI_STATE",
-        null
-      ],
-      [
-        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-        null
-      ],
-      [
-        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
-    "icons": {
-      "320": "net.i2p.android.4745252.png",
-      "240": "net.i2p.android.4745252.png",
-      "160": "net.i2p.android.4745252.png",
-      "0": "net.i2p.android.4745252.png"
-    },
     "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745252,
-    "name": "I2P",
-    "versionName": "0.9.43",
-    "minSdkVersion": 14,
+    "features": [],
+    "icons": {
+      "0": "i2p.bote.android.13.png",
+      "240": "i2p.bote.android.13.png",
+      "160": "i2p.bote.android.13.png",
+      "320": "i2p.bote.android.13.png"
+    }
+  },
+  "I2P-0.9.43.apk": {
     "targetSdkVersion": 26,
     "nativecode": [
       "arm64-v8a",
@@ -250,16 +198,26 @@
       "mips",
       "x86"
     ],
-    "sig": "64593192f850670c39ba600c24d065ae",
+    "added": 1653721793.470111,
+    "versionCode": 4745252,
     "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 5389357,
-    "apkName": "I2P-0.9.43.apk",
-    "icon": "net.i2p.android.4745252.png",
-    "added": 1622621463.530516
-  },
-  "I2P-0.9.44.apk": {
-    "hash": "3f6263fb98ddad3c6f5efee70d3d4a424c6757f79ca60ade24e740d5d3a79276",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.9.43",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745252.png",
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "I2P",
+    "hash": "93e39b46001da498c9dad1ee94e5cb6301942a5dd2fe6b8405c7ccbed936d2bf",
+    "apkName": "I2P-0.9.43.apk",
+    "size": 5389357,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -290,26 +248,16 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
-    "icons": {
-      "320": "net.i2p.android.4745253.png",
-      "240": "net.i2p.android.4745253.png",
-      "160": "net.i2p.android.4745253.png",
-      "0": "net.i2p.android.4745253.png"
-    },
     "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745253,
-    "name": "I2P",
-    "versionName": "0.9.44",
-    "minSdkVersion": 14,
+    "features": [],
+    "icons": {
+      "0": "net.i2p.android.4745252.png",
+      "240": "net.i2p.android.4745252.png",
+      "160": "net.i2p.android.4745252.png",
+      "320": "net.i2p.android.4745252.png"
+    }
+  },
+  "I2P-0.9.44.apk": {
     "targetSdkVersion": 28,
     "nativecode": [
       "arm64-v8a",
@@ -318,16 +266,26 @@
       "mips",
       "x86"
     ],
-    "sig": "64593192f850670c39ba600c24d065ae",
+    "added": 1653721794.988641,
+    "versionCode": 4745253,
     "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 5379337,
-    "apkName": "I2P-0.9.44.apk",
-    "icon": "net.i2p.android.4745253.png",
-    "added": 1622621464.335496
-  },
-  "I2P-0.9.45.apk": {
-    "hash": "7460aab87fcc33a20cd7c26fa4e71834fbf09e2983daba00f6cd910f222c33fd",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.9.44",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745253.png",
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "I2P",
+    "hash": "3f6263fb98ddad3c6f5efee70d3d4a424c6757f79ca60ade24e740d5d3a79276",
+    "apkName": "I2P-0.9.44.apk",
+    "size": 5379337,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -358,42 +316,108 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
-    "icons": {
-      "320": "net.i2p.android.4745255.png",
-      "240": "net.i2p.android.4745255.png",
-      "160": "net.i2p.android.4745255.png",
-      "0": "net.i2p.android.4745255.png"
-    },
     "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745255,
-    "name": "I2P",
-    "versionName": "0.9.45",
-    "minSdkVersion": 14,
+    "features": [],
+    "icons": {
+      "0": "net.i2p.android.4745253.png",
+      "240": "net.i2p.android.4745253.png",
+      "160": "net.i2p.android.4745253.png",
+      "320": "net.i2p.android.4745253.png"
+    }
+  },
+  "I2P-0.9.45.apk": {
     "targetSdkVersion": 28,
     "nativecode": [
       "arm64-v8a",
       "armeabi",
       "armeabi-v7a"
     ],
-    "sig": "64593192f850670c39ba600c24d065ae",
+    "added": 1653721796.552732,
+    "versionCode": 4745255,
     "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 5248838,
-    "apkName": "I2P-0.9.45.apk",
+    "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.9.45",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
     "icon": "net.i2p.android.4745255.png",
-    "added": 1622621465.127146
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "I2P",
+    "hash": "7460aab87fcc33a20cd7c26fa4e71834fbf09e2983daba00f6cd910f222c33fd",
+    "apkName": "I2P-0.9.45.apk",
+    "size": 5248838,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "antiFeatures": [],
+    "features": [],
+    "icons": {
+      "0": "net.i2p.android.4745255.png",
+      "240": "net.i2p.android.4745255.png",
+      "160": "net.i2p.android.4745255.png",
+      "320": "net.i2p.android.4745255.png"
+    }
   },
   "I2P-0.9.48.apk": {
-    "hash": "0c6ecb1b79773940bae270753dada8d32a7fc5c66a5536cdf6d45ec683a2896b",
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721799.902221,
+    "versionCode": 4745259,
+    "signer": "68e76561aaf3f53dd53ba7c03d795213d0ca1772c3fac0159b50a5aa85c45dc6",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.9.48",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745259.png",
+    "uses-permission-sdk-23": [],
+    "sig": "8faf64f8b5e452f60b5841509ac0fffb",
+    "name": "I2P",
+    "hash": "0c6ecb1b79773940bae270753dada8d32a7fc5c66a5536cdf6d45ec683a2896b",
+    "apkName": "I2P-0.9.48.apk",
+    "size": 5278669,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -424,42 +448,42 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745259.png",
+      "0": "net.i2p.android.4745259.png",
       "240": "net.i2p.android.4745259.png",
       "160": "net.i2p.android.4745259.png",
-      "0": "net.i2p.android.4745259.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745259,
-    "name": "I2P",
-    "versionName": "0.9.48",
-    "minSdkVersion": 14,
-    "targetSdkVersion": 29,
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "8faf64f8b5e452f60b5841509ac0fffb",
-    "signer": "68e76561aaf3f53dd53ba7c03d795213d0ca1772c3fac0159b50a5aa85c45dc6",
-    "size": 5278669,
-    "apkName": "I2P-0.9.48.apk",
-    "icon": "net.i2p.android.4745259.png",
-    "added": 1622621466.575925
+      "320": "net.i2p.android.4745259.png"
+    }
   },
   "I2P-0.9.49.apk": {
-    "hash": "6e0fde3563a1e29a3871a8dd38704b7093410d07b320abc6191b3bb55c6097e7",
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721801.674333,
+    "versionCode": 4745259,
+    "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.9.49",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745259.png",
+    "uses-permission-sdk-23": [],
+    "sig": "64593192f850670c39ba600c24d065ae",
+    "name": "I2P",
+    "hash": "6e0fde3563a1e29a3871a8dd38704b7093410d07b320abc6191b3bb55c6097e7",
+    "apkName": "I2P-0.9.49.apk",
+    "size": 5477306,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -490,42 +514,42 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745259.png",
+      "0": "net.i2p.android.4745259.png",
       "240": "net.i2p.android.4745259.png",
       "160": "net.i2p.android.4745259.png",
-      "0": "net.i2p.android.4745259.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745259,
-    "name": "I2P",
-    "versionName": "0.9.49",
-    "minSdkVersion": 14,
-    "targetSdkVersion": 29,
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "64593192f850670c39ba600c24d065ae",
-    "signer": "ad1e11c258463e6815a98609ff24a48bc02586c23600849c166653972f397a90",
-    "size": 5477306,
-    "apkName": "I2P-0.9.49.apk",
-    "icon": "net.i2p.android.4745259.png",
-    "added": 1622621467.434534
+      "320": "net.i2p.android.4745259.png"
+    }
   },
   "I2P-0.9.50.apk": {
-    "hash": "2795d966a498aa3c4a8e43176e3c0fb3f3ae1012689361f991e48edfa542dd4f",
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721803.193643,
+    "versionCode": 4745260,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "0.9.50",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745260.png",
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "2795d966a498aa3c4a8e43176e3c0fb3f3ae1012689361f991e48edfa542dd4f",
+    "apkName": "I2P-0.9.50.apk",
+    "size": 5471200,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -556,42 +580,42 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745260.png",
+      "0": "net.i2p.android.4745260.png",
       "240": "net.i2p.android.4745260.png",
       "160": "net.i2p.android.4745260.png",
-      "0": "net.i2p.android.4745260.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745260,
-    "name": "I2P",
-    "versionName": "0.9.50",
-    "minSdkVersion": 14,
-    "targetSdkVersion": 29,
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
-    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5471200,
-    "apkName": "I2P-0.9.50.apk",
-    "icon": "net.i2p.android.4745260.png",
-    "added": 1622621468.240058
+      "320": "net.i2p.android.4745260.png"
+    }
   },
   "I2P-1.5.0.apk": {
-    "hash": "7bc61b03145fe5518cc4916e3ef9aaaed700e964b4bfd41718f3247aa993a240",
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721804.694226,
+    "versionCode": 4745264,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "1.6.0",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745264.png",
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "7bc61b03145fe5518cc4916e3ef9aaaed700e964b4bfd41718f3247aa993a240",
+    "apkName": "I2P-1.5.0.apk",
+    "size": 5428429,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -622,108 +646,108 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745264.png",
+      "0": "net.i2p.android.4745264.png",
       "240": "net.i2p.android.4745264.png",
       "160": "net.i2p.android.4745264.png",
-      "0": "net.i2p.android.4745264.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745264,
-    "name": "I2P",
-    "versionName": "1.6.0",
-    "minSdkVersion": 14,
-    "targetSdkVersion": 29,
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
-    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5428429,
-    "apkName": "I2P-1.5.0.apk",
-    "icon": "net.i2p.android.4745264.png",
-    "added": 1638338629.691891
+      "320": "net.i2p.android.4745264.png"
+    }
   },
   "I2P-1.6.0.apk": {
-    "hash": "7bc61b03145fe5518cc4916e3ef9aaaed700e964b4bfd41718f3247aa993a240",
-    "hashType": "sha256",
-    "uses-permission": [
-      [
-        "android.permission.INTERNET",
-        null
-      ],
-      [
-        "android.permission.ACCESS_NETWORK_STATE",
-        null
-      ],
-      [
-        "android.permission.RECEIVE_BOOT_COMPLETED",
-        null
-      ],
-      [
-        "android.permission.FOREGROUND_SERVICE",
-        null
-      ],
-      [
-        "android.permission.ACCESS_WIFI_STATE",
-        null
-      ],
-      [
-        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-        null
-      ],
-      [
-        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-        null
-      ]
-    ],
-    "uses-permission-sdk-23": [],
-    "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
-    "icons": {
-      "320": "net.i2p.android.4745264.png",
-      "240": "net.i2p.android.4745264.png",
-      "160": "net.i2p.android.4745264.png",
-      "0": "net.i2p.android.4745264.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745264,
-    "name": "I2P",
-    "versionName": "1.6.0",
-    "minSdkVersion": 14,
     "targetSdkVersion": 29,
     "nativecode": [
       "arm64-v8a",
       "armeabi",
       "armeabi-v7a"
     ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "added": 1653721806.214013,
+    "versionCode": 4745264,
     "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5428429,
-    "apkName": "I2P-1.6.0.apk",
+    "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "1.6.0",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
     "icon": "net.i2p.android.4745264.png",
-    "added": 1638338630.732225
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "7bc61b03145fe5518cc4916e3ef9aaaed700e964b4bfd41718f3247aa993a240",
+    "apkName": "I2P-1.6.0.apk",
+    "size": 5428429,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "antiFeatures": [],
+    "features": [],
+    "icons": {
+      "0": "net.i2p.android.4745264.png",
+      "240": "net.i2p.android.4745264.png",
+      "160": "net.i2p.android.4745264.png",
+      "320": "net.i2p.android.4745264.png"
+    }
   },
   "I2P-1.6.1.apk": {
-    "hash": "be8e807c12914506bb2ecd18e1ef2fdf703c7c84c60eefcf0a245e0818c3a9e3",
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721808.193558,
+    "versionCode": 4745265,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "1.6.1",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745265.png",
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "be8e807c12914506bb2ecd18e1ef2fdf703c7c84c60eefcf0a245e0818c3a9e3",
+    "apkName": "I2P-1.6.1.apk",
+    "size": 5432341,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -754,42 +778,42 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745265.png",
+      "0": "net.i2p.android.4745265.png",
       "240": "net.i2p.android.4745265.png",
       "160": "net.i2p.android.4745265.png",
-      "0": "net.i2p.android.4745265.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745265,
-    "name": "I2P",
-    "versionName": "1.6.1",
-    "minSdkVersion": 14,
-    "targetSdkVersion": 30,
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
-    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5432341,
-    "apkName": "I2P-1.6.1.apk",
-    "icon": "net.i2p.android.4745265.png",
-    "added": 1641535964.861982
+      "320": "net.i2p.android.4745265.png"
+    }
   },
   "I2P-1.7.0.apk": {
-    "hash": "55543e0e00f3f82eea8e330e5e22eac0ddc7b4191bedbedeccdd1649ed57023c",
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721809.762574,
+    "versionCode": 4745266,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "1.7.0-1",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745266.png",
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "55543e0e00f3f82eea8e330e5e22eac0ddc7b4191bedbedeccdd1649ed57023c",
+    "apkName": "I2P-1.7.0.apk",
+    "size": 5433441,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -820,42 +844,42 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745266.png",
+      "0": "net.i2p.android.4745266.png",
       "240": "net.i2p.android.4745266.png",
       "160": "net.i2p.android.4745266.png",
-      "0": "net.i2p.android.4745266.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745266,
-    "name": "I2P",
-    "versionName": "1.7.0-1",
-    "minSdkVersion": 14,
-    "targetSdkVersion": 30,
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
-    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5433441,
-    "apkName": "I2P-1.7.0.apk",
-    "icon": "net.i2p.android.4745266.png",
-    "added": 1645592437.353192
+      "320": "net.i2p.android.4745266.png"
+    }
   },
   "I2P-1.7.1.apk": {
-    "hash": "ac2421c1a0d2b1205f6bdb42fd83dae378873e452a069a84bcb3e448b775632b",
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "added": 1653721811.242008,
+    "versionCode": 4745266,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
     "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "1.7.0",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745266.png",
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "ac2421c1a0d2b1205f6bdb42fd83dae378873e452a069a84bcb3e448b775632b",
+    "apkName": "I2P-1.7.1.apk",
+    "size": 5437761,
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -886,37 +910,277 @@
         null
       ]
     ],
-    "uses-permission-sdk-23": [],
+    "antiFeatures": [],
     "features": [],
-    "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
-      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
-    },
     "icons": {
-      "320": "net.i2p.android.4745266.png",
+      "0": "net.i2p.android.4745266.png",
       "240": "net.i2p.android.4745266.png",
       "160": "net.i2p.android.4745266.png",
-      "0": "net.i2p.android.4745266.png"
-    },
-    "antiFeatures": [],
-    "packageName": "net.i2p.android",
-    "versionCode": 4745266,
-    "name": "I2P",
-    "versionName": "1.7.0",
-    "minSdkVersion": 14,
+      "320": "net.i2p.android.4745266.png"
+    }
+  },
+  "I2P-1.8.0.apk": {
     "targetSdkVersion": 30,
     "nativecode": [
       "arm64-v8a",
       "armeabi",
       "armeabi-v7a"
     ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "added": 1653721813.005669,
+    "versionCode": 4745267,
     "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5437761,
-    "apkName": "I2P-1.7.1.apk",
-    "icon": "net.i2p.android.4745266.png",
-    "added": 1646568801.524772
+    "hashType": "sha256",
+    "minSdkVersion": 14,
+    "versionName": "1.8.0",
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "icon": "net.i2p.android.4745267.png",
+    "uses-permission-sdk-23": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "name": "I2P",
+    "hash": "0e6196e601b99455d03bca190f6df10d68ef1337f023edcad9ec8953362795a7",
+    "apkName": "I2P-1.8.0.apk",
+    "size": 5502349,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "antiFeatures": [],
+    "features": [],
+    "icons": {
+      "0": "net.i2p.android.4745267.png",
+      "240": "net.i2p.android.4745267.png",
+      "160": "net.i2p.android.4745267.png",
+      "320": "net.i2p.android.4745267.png"
+    }
+  },
+  "I2P-1.8.1.apk": {
+    "versionCode": 4745268,
+    "icons": {
+      "320": "net.i2p.android.4745268.png",
+      "0": "net.i2p.android.4745268.png",
+      "240": "net.i2p.android.4745268.png",
+      "160": "net.i2p.android.4745268.png"
+    },
+    "apkName": "I2P-1.8.1.apk",
+    "hashType": "sha256",
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "antiFeatures": [],
+    "hash": "95f32d32eb974a71f4c19c9d748dbe75e2169885f16d5774eddbdfa424618da2",
+    "name": "I2P",
+    "versionName": "1.8.1",
+    "targetSdkVersion": 30,
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
+    },
+    "packageName": "net.i2p.android",
+    "size": 5503705,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "icon": "net.i2p.android.4745268.png",
+    "minSdkVersion": 14,
+    "added": 1655450103.057105,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "sig": "847a5ec974ab71021243bf4752d65e8f"
+  },
+  "I2P-1.8.2.apk": {
+    "hashType": "sha256",
+    "hash": "84dcdc33e1fb2f49040083c6449bf644cdf9eff3d55018904972d3748ad19457",
+    "added": 1656276094.419717,
+    "icons_src": {
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
+    },
+    "features": [],
+    "name": "I2P",
+    "icon": "net.i2p.android.4745269.png",
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "packageName": "net.i2p.android",
+    "uses-permission-sdk-23": [],
+    "icons": {
+      "160": "net.i2p.android.4745269.png",
+      "240": "net.i2p.android.4745269.png",
+      "320": "net.i2p.android.4745269.png",
+      "0": "net.i2p.android.4745269.png"
+    },
+    "apkName": "I2P-1.8.2.apk",
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "size": 5503641,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "targetSdkVersion": 30,
+    "versionCode": 4745269,
+    "minSdkVersion": 14,
+    "versionName": "1.8.2",
+    "antiFeatures": []
+  },
+  "app.apk": {
+    "icons_src": {
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png"
+    },
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "added": 1656167230.879395,
+    "versionCode": 4745268,
+    "uses-permission-sdk-23": [],
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "targetSdkVersion": 30,
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "icons": {
+      "320": "net.i2p.android.4745268.png",
+      "240": "net.i2p.android.4745268.png",
+      "0": "net.i2p.android.4745268.png",
+      "160": "net.i2p.android.4745268.png"
+    },
+    "packageName": "net.i2p.android",
+    "hashType": "sha256",
+    "features": [],
+    "icon": "net.i2p.android.4745268.png",
+    "minSdkVersion": 14,
+    "name": "I2P",
+    "size": 5503705,
+    "antiFeatures": [],
+    "hash": "95f32d32eb974a71f4c19c9d748dbe75e2169885f16d5774eddbdfa424618da2",
+    "versionName": "1.8.1",
+    "apkName": "app.apk"
   }
 }

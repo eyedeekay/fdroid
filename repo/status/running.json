@@ -1,33 +1,55 @@
 {
+  "/etc/issue.net": "Debian GNU/Linux 9",
   "commandLine": [
-    "/usr/bin/fdroid update"
+    "/usr/local/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "3fb50f94145b6812ac92cac9443d08e81cd88fb3",
+    "commitId": "5e8bccc2131bbef3f21017ba9c32982cfd3c62e3",
     "isDirty": true,
     "modifiedFiles": [
+      "fdroid.tar.gz",
+      "repo/icons/i2p-icon.png",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
-      "repo/status/update.json"
+      "repo/status/update.json",
+      "tmp/apkcache.json"
     ],
     "untrackedFiles": [
       "config.yml",
-      "fdroid.tar.gz",
-      "repo/I2P-1.7.0.apk",
-      "repo/I2P-1.7.1.apk",
-      "repo/icons-120/net.i2p.android.4745266.png",
-      "repo/icons-160/net.i2p.android.4745266.png",
-      "repo/icons-240/net.i2p.android.4745266.png",
-      "repo/icons-320/net.i2p.android.4745266.png",
-      "repo/icons-480/net.i2p.android.4745266.png",
-      "repo/icons-640/net.i2p.android.4745266.png",
-      "repo/icons/net.i2p.android.4745266.png",
-      "tmp/apkcache.json"
+      "repo/I2P-1.8.0.apk",
+      "repo/I2P-1.8.1.apk",
+      "repo/I2P-1.8.2.apk",
+      "repo/app.apk",
+      "repo/app.apk.asc",
+      "repo/icons-120/net.i2p.android.4745267.png",
+      "repo/icons-120/net.i2p.android.4745268.png",
+      "repo/icons-120/net.i2p.android.4745269.png",
+      "repo/icons-160/net.i2p.android.4745267.png",
+      "repo/icons-160/net.i2p.android.4745268.png",
+      "repo/icons-160/net.i2p.android.4745269.png",
+      "repo/icons-240/net.i2p.android.4745267.png",
+      "repo/icons-240/net.i2p.android.4745268.png",
+      "repo/icons-240/net.i2p.android.4745269.png",
+      "repo/icons-320/net.i2p.android.4745267.png",
+      "repo/icons-320/net.i2p.android.4745268.png",
+      "repo/icons-320/net.i2p.android.4745269.png",
+      "repo/icons-480/net.i2p.android.4745267.png",
+      "repo/icons-480/net.i2p.android.4745268.png",
+      "repo/icons-480/net.i2p.android.4745269.png",
+      "repo/icons-640/net.i2p.android.4745267.png",
+      "repo/icons-640/net.i2p.android.4745268.png",
+      "repo/icons-640/net.i2p.android.4745269.png",
+      "repo/icons/net.i2p.android.4745267.png",
+      "repo/icons/net.i2p.android.4745268.png",
+      "repo/icons/net.i2p.android.4745269.png",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.png"
     ]
   },
-  "startTimestamp": 1646568797000,
+  "startTimestamp": 1656276089000,
   "subcommand": "update"
 }
