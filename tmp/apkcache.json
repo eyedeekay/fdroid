@@ -1052,35 +1052,32 @@
     "sig": "847a5ec974ab71021243bf4752d65e8f"
   },
   "I2P-1.8.2.apk": {
+    "versionCode": 4745269,
+    "targetSdkVersion": 30,
     "hashType": "sha256",
-    "hash": "84dcdc33e1fb2f49040083c6449bf644cdf9eff3d55018904972d3748ad19457",
-    "added": 1656276094.419717,
+    "versionName": "1.8.2",
+    "packageName": "net.i2p.android",
+    "hash": "33719ba11571237f9621a0b0d20104e1991734b1bb9b84211c5a27742aff122f",
+    "apkName": "I2P-1.8.2.apk",
+    "uses-permission-sdk-23": [],
     "icons_src": {
-      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png",
       "320": "res/drawable-xhdpi-v4/ic_launcher_itoopie.png",
       "160": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
-      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png"
+      "-1": "res/drawable-mdpi-v4/ic_launcher_itoopie.png",
+      "240": "res/drawable-hdpi-v4/ic_launcher_itoopie.png"
     },
-    "features": [],
-    "name": "I2P",
     "icon": "net.i2p.android.4745269.png",
-    "nativecode": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "sig": "847a5ec974ab71021243bf4752d65e8f",
-    "packageName": "net.i2p.android",
-    "uses-permission-sdk-23": [],
-    "icons": {
-      "160": "net.i2p.android.4745269.png",
-      "240": "net.i2p.android.4745269.png",
-      "320": "net.i2p.android.4745269.png",
-      "0": "net.i2p.android.4745269.png"
-    },
-    "apkName": "I2P-1.8.2.apk",
     "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
-    "size": 5503641,
+    "icons": {
+      "0": "net.i2p.android.4745269.png",
+      "320": "net.i2p.android.4745269.png",
+      "160": "net.i2p.android.4745269.png",
+      "240": "net.i2p.android.4745269.png"
+    },
+    "added": 1656359267.602863,
+    "minSdkVersion": 14,
+    "antiFeatures": [],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
     "uses-permission": [
       [
         "android.permission.INTERNET",
@@ -1111,11 +1108,14 @@
         null
       ]
     ],
-    "targetSdkVersion": 30,
-    "versionCode": 4745269,
-    "minSdkVersion": 14,
-    "versionName": "1.8.2",
-    "antiFeatures": []
+    "features": [],
+    "name": "I2P",
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "size": 5502437
   },
   "app.apk": {
     "icons_src": {
