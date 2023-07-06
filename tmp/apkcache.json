@@ -1512,5 +1512,60 @@
     "size": 5380399,
     "apkName": "I2P-.apk",
     "added": 1688634122.116335
+  },
+  "I2P-2.3.0.apk": {
+    "hash": "1260e1bdaa18acd50936322511baacda89edc270d3c5ceecf768bab50f46c816",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "net.i2p.android",
+    "versionCode": 4745279,
+    "name": "I2P",
+    "versionName": "2.3.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "size": 5380399,
+    "apkName": "I2P-2.3.0.apk",
+    "added": 1688634468.762249
   }
 }
