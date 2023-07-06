@@ -1292,5 +1292,225 @@
     ],
     "targetSdkVersion": 31,
     "size": 5395382
+  },
+  "I2P-2.1.0.apk": {
+    "icons_src": {},
+    "icons": {},
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "size": 5365506,
+    "antiFeatures": [],
+    "minSdkVersion": 21,
+    "apkName": "I2P-2.1.0.apk",
+    "versionName": "2.1.0",
+    "uses-permission-sdk-23": [],
+    "packageName": "net.i2p.android",
+    "features": [],
+    "added": 1673458562.424199,
+    "targetSdkVersion": 33,
+    "hashType": "sha256",
+    "versionCode": 4745274,
+    "hash": "126cc7569bf22f3fe4c629cc6e3098669eddd8dad3332ec11c89ec8689e966ad",
+    "name": "I2P",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "sig": "847a5ec974ab71021243bf4752d65e8f"
+  },
+  "I2P-2.2.0.apk": {
+    "targetSdkVersion": 33,
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "packageName": "net.i2p.android",
+    "icons_src": {},
+    "name": "I2P",
+    "added": 1679767689.919399,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "antiFeatures": [],
+    "features": [],
+    "icons": {},
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "versionCode": 4745277,
+    "apkName": "I2P-2.2.0.apk",
+    "hash": "06a12f772075e3ae0cc510d8285e231d9f024967baeecca1c07e6b3ef5361752",
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "uses-permission-sdk-23": [],
+    "minSdkVersion": 21,
+    "size": 5383460,
+    "hashType": "sha256",
+    "versionName": "2.2.0"
+  },
+  "I2P-2.2.1.apk": {
+    "antiFeatures": [],
+    "added": 1681748504.254729,
+    "features": [],
+    "apkName": "I2P-2.2.1.apk",
+    "versionCode": 4745278,
+    "packageName": "net.i2p.android",
+    "versionName": "2.2.1",
+    "name": "I2P",
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "icons": {},
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "targetSdkVersion": 33,
+    "minSdkVersion": 21,
+    "icons_src": {},
+    "hash": "272acf543c4489dc3775c07c42eb91710b4ed377c78aff605e3d44e73fad5110",
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "size": 5386097,
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "hashType": "sha256"
+  },
+  "I2P-.apk": {
+    "hash": "1260e1bdaa18acd50936322511baacda89edc270d3c5ceecf768bab50f46c816",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "net.i2p.android",
+    "versionCode": 4745279,
+    "name": "I2P",
+    "versionName": "2.3.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "sig": "847a5ec974ab71021243bf4752d65e8f",
+    "signer": "22658cc69f48d63f63c3d64e2041c81714e2749f3f6e5445c825297a00ddc5b6",
+    "size": 5380399,
+    "apkName": "I2P-.apk",
+    "added": 1688634122.116335
   }
 }
